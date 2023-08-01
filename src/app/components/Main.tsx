@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Link from "next/link";
-import { projectsData } from "./../../data.js";
+import { projectsData } from "../../api/data.js";
 import Project from "./Project";
 import Welcome from "./Welcome";
 import ProjectList from "./ProjectList";
