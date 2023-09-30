@@ -28,7 +28,7 @@ export default function Main() {
           .map((project) => {
             return (
               <Project
-                key={project.id}
+                key={chooseProject}
                 title={project.title}
                 description={project.description}
                 siteUrl={project.siteUrl}
