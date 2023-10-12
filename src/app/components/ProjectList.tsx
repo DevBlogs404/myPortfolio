@@ -20,7 +20,7 @@ export default function ProjectList(props: TProps) {
           <div className="z-[-5] h-1/2  w-1/5  absolute top-0 left-0 border-t-4 border-l-4 rounded-sm border-orange-400 animate-comeFromOpacity"></div>
           <span className="cursor-pointer">
             <span
-              className=" text-xl text-gray-300 border-b-2 border-fuchsia-500 hover:text-white  md:hover:text-2xl transition-all ease-in-out"
+              className=" text-xl text-gray-300 border-b-2 border-[#fb923c] hover:text-white  md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
               Avira
@@ -28,7 +28,7 @@ export default function ProjectList(props: TProps) {
           </span>
           <span className="cursor-pointer">
             <span
-              className=" text-xl text-gray-300  border-b-2 border-fuchsia-500  hover:text-white md:hover:text-2xl transition-all ease-in-out"
+              className=" text-xl text-gray-300  border-b-2 border-[#fb923c]  hover:text-white md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
               Space-App
@@ -36,7 +36,7 @@ export default function ProjectList(props: TProps) {
           </span>
           <span className="cursor-pointer">
             <span
-              className=" text-xl text-gray-300  border-b-2 border-fuchsia-500  hover:text-white md:hover:text-2xl transition-all ease-in-out"
+              className=" text-xl text-gray-300  border-b-2 border-[#fb923c]  hover:text-white md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
               DashBoard
