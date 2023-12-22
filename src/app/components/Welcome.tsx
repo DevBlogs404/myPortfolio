@@ -15,13 +15,8 @@ export default function Welcome() {
       <div className="text-6xl md:text-8xl pointer-events-none">Welcome.</div>
       <div className="my-6 p-4 pointer-events-none">
         <p className=" text-gray-300 break-words">
-          My name is Shubham, I'm a JavaScript developer based in Haryana,
-          India. I have developed many types of web-apps as side projects, from
-          well known Ecommerce platforms to Modren Websites.
-        </p>
-        <p className="mt-4 text-gray-300 break-words">
-          I'm passionate about cutting-edge new technologies, pixel-perfect,
-          beautiful interfaces and intuitively implemented UX
+          My name is Shubham, I'm a FullStack JavaScript developer based in
+          Haryana, India.
         </p>
         <div className="mt-4">
           <p className=" text-gray-300 font-bold">Technologies I Use:</p>

@@ -23,7 +23,7 @@ export default function ProjectList(props: TProps) {
               className=" text-xl text-gray-300 border-b-2 border-[#fb923c] hover:text-white  md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
-              Avira
+              OpenTable-Clone
             </span>
           </span>
           <span className="cursor-pointer">
@@ -31,15 +31,23 @@ export default function ProjectList(props: TProps) {
               className=" text-xl text-gray-300  border-b-2 border-[#fb923c]  hover:text-white md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
-              Space-App
+              Avira
             </span>
           </span>
-          <span className="cursor-pointer">
+          {/* <span className="cursor-pointer">
             <span
               className=" text-xl text-gray-300  border-b-2 border-[#fb923c]  hover:text-white md:hover:text-2xl transition-all ease-in-out"
               onClick={props.handleClick}
             >
               DashBoard
+            </span>
+          </span> */}
+          <span className="cursor-pointer">
+            <span
+              className=" text-xl text-gray-300  border-b-2 border-[#fb923c]  hover:text-white md:hover:text-2xl transition-all ease-in-out"
+              onClick={props.handleClick}
+            >
+              Item Count on Scroll
             </span>
           </span>
         </div>
