@@ -15,22 +15,22 @@ export const projectsData = [
     siteUrl: "https://dev-front-seven.vercel.app/",
     codeUrl: "https://github.com/DevBlogs404/dev-front",
   },
+  //     {
+  //       id: 3,
+  //       title: "Space-App",
+  //       description:
+  //         "Developed a modern, fully responsive  website using React JS. Implemented an immersive UI and utilized Flexbox Layout using SCSS.",
+  //       siteUrl: "https://reactspace-app.netlify.app/",
+  //       codeUrl: "https://github.com/DevBlogs404/spaceApp",
+  //     },
   //   {
   //     id: 3,
-  //     title: "Space-App",
+  //     title: "DashBoard",
   //     description:
-  //       "Developed a modern, fully responsive  website using React JS. Implemented an immersive UI and utilized Flexbox Layout using SCSS.",
-  //     siteUrl: "https://reactspace-app.netlify.app/",
-  //     codeUrl: "https://github.com/DevBlogs404/spaceApp",
+  //       "Board | One Dashboard for all your organizations. Developed Using React and  SCSS.Fully Responsive for all media screens. Implemented Authentication for users, beautiful graphs using rechart.js",
+  //     siteUrl: "https://dash-board-navy.vercel.app/",
+  //     codeUrl: "https://github.com/DevBlogs404/Dash-Board",
   //   },
-  {
-    id: 3,
-    title: "DashBoard",
-    description:
-      "Board | One Dashboard for all your organizations. Developed Using React and  SCSS.Fully Responsive for all media screens. Implemented Authentication for users, beautiful graphs using rechart.js",
-    siteUrl: "https://dash-board-navy.vercel.app/",
-    codeUrl: "https://github.com/DevBlogs404/Dash-Board",
-  },
   {
     id: 4,
     title: "Item Count on Scroll",
